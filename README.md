@@ -1,61 +1,119 @@
-# Internship-Tutorials-
+# Internship-Tutorials
 
-🌟 Overview
-This repository is more than just code; it’s a narrative of my transition from academic learning to industry-level application. Here, you’ll find my journey from receiving the Offer Letter to completing my final Projects.
+🌟 **Overview**  
+This repository represents my journey from academic learning to real-world development. It documents my experience from receiving the **internship offer letter** to completing **practical projects** and gaining industry-level skills.
 
-## TechnoHacks Edutech
+---
+
+## 🏢 TechnoHacks Edutech
 
 ### 🌐 Web Design & Development Internship
 
-Company: [TechnoHacks Edutech]
-Duration: Feb 2026 – March 2026
-Role: Web Development Intern
-🛠️ Skills I Mastered
-Frontend: HTML5, CSS3, JavaScript (ES6+)
+- **Company:** TechnoHacks Edutech  
+- **Duration:** Feb 2026 – March 2026  
+- **Role:** Web Development Intern  
 
-Frameworks: Bootstrap & React.js
+---
 
-Soft Skills: Professional Communication & Teamwork
+## 🛠️ Skills I Learned
 
-🏗️ Projects Built
-During this period, I have built 3 main projects, focusing on UI and UX, as well as the overall functionality.
+### Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)
 
-1. Advanced Contact Form (React.js)
-   This is not just a simple contact form. I have tried to provide the best user experience.
+### Frameworks
+- Bootstrap  
+- React.js  
 
-Tech: React.js, Web3Forms, SweetAlert2.
+### Soft Skills
+- Professional Communication  
+- Team Collaboration  
 
-Features: Once the user has submitted the form, a beautiful alert will pop up, and the data will be sent directly to my email.
+---
 
-Key Lesson: I learned how to handle API submission and professional UI feedback.
+## 🏗️ Projects Built
 
-2. Infinite CSS Loader
-   A simple and beautiful project, focusing on a smooth animation.
+During this internship, I developed **three practical projects** focusing on UI, UX, and functionality.
 
-Tech: Just using HTML & CSS.
+---
 
-Features: A green circle will animate endlessly.
+### 1️⃣ Advanced Contact Form (React.js)
 
-Key Lesson Learnt: I learned how to master the use of CSS @keyframes and transform properties to achieve beautiful effects without using heavy libraries.
+A modern and user-friendly contact form designed to provide a smooth experience.
 
-3. Smart QR Code Generator
-   I came up with the idea after talking to Google Gemini while I was updating my LinkedIn!
+**Tech Used**
+- React.js  
+- Web3Forms API  
+- SweetAlert2  
 
-Tech: JavaScript & QR API.
+**Features**
+- Interactive success alert after form submission  
+- Form data sent directly to email  
+- Clean UI and professional feedback  
 
-Features: I use this to generate a QR Code out of my Resume link. This is a brilliant way to impress the interviewer and get noticed!
+**Key Learning**
+- Understanding **API form submission**
+- Implementing **professional UI feedback**
 
-📜 Internship Documents
-You will find my official documents in the Credentials folder:
+---
 
-✅ Offer Letter
+### 2️⃣ Infinite CSS Loader
 
-✅ Completion Certificate
+A lightweight animation project built using only HTML and CSS.
 
-✅ Letter of Recommendation (LOR)
+**Tech Used**
+- HTML  
+- CSS  
 
-💡 Final Thought
-"Real coding is different from tutorials. It's about making things work for the user."
+**Features**
+- Smooth infinite loader animation  
+- Lightweight and fast performance  
 
-Linkedin :- https://www.linkedin.com/in/mohit-hodkhasiya-396119343/
-Youtube :- https://www.youtube.com/@MohitCws
+**Key Learning**
+- Mastering **CSS @keyframes**
+- Using **transform animations** without external libraries
+
+---
+
+### 3️⃣ Smart QR Code Generator
+
+A simple tool that converts a link into a QR code.
+
+**Tech Used**
+- JavaScript  
+- QR Code API  
+
+**Features**
+- Generate QR code instantly  
+- Convert **resume or portfolio links into QR codes**
+
+**Key Learning**
+- Working with **external APIs**
+- Building practical **developer utility tools**
+
+---
+
+## 📜 Internship Documents
+
+Inside the **Credentials** folder, you will find:
+
+- ✅ Offer Letter  
+- ✅ Completion Certificate  
+- ✅ Letter of Recommendation (LOR)
+
+---
+
+## 💡 Final Thought
+
+> **"Real coding is different from tutorials. It's about building solutions that actually work for users."**
+
+---
+
+## 🔗 Connect With Me
+
+**LinkedIn**  
+https://www.linkedin.com/in/mohit-hodkhasiya-396119343/
+
+**YouTube**  
+https://www.youtube.com/@MohitCws
