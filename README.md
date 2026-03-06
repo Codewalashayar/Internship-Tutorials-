@@ -112,8 +112,7 @@ Inside the **Credentials** folder, you will find:
 
 ## 🔗 Connect With Me
 
-**LinkedIn**  
-https://www.linkedin.com/in/mohit-hodkhasiya-396119343/
+[**LinkedIn**](https://www.linkedin.com/in/mohit-hodkhasiya-396119343)
 
-**YouTube**  
-https://www.youtube.com/@MohitCws
+[**YouTube**](https://www.youtube.com/@MohitCws)  
+
